@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "author": "oza",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/artechventure/github_action_study/issues"
   },
-  "homepage": "https://github.com/artechventure/github_action_study#readme"
+  "homepage": "https://github.com/artechventure/github_action_study#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
 }
