@@ -1,0 +1,15 @@
+{
+  "name": "github_action_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "oza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artechventure/github_action_study/issues"
+  },
+  "homepage": "https://github.com/artechventure/github_action_study#readme"
+}
